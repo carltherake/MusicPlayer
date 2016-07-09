@@ -1,0 +1,21 @@
+.container{
+  background-color: dimgrey;
+}
+
+.album_art{
+  display: block;
+}
+
+ul li {
+  list-style-type: circle;
+}
+
+.playing {
+  list-style-type: disc;
+  font-weight: bold;
+}
+
+.top {
+  list-style-type: square;
+  font-size: larger;
+}
